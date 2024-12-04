@@ -61,11 +61,36 @@ Evaluation: Achieved high accuracy and precision by optimizing hyperparameters u
 Insights Delivered:
 Identified significant acoustic features that influence gender classification.
 Demonstrated the effectiveness of SVM in handling complex, high-dimensional data.
+
 Technologies Used:
+Tools & Libraries: Python, Pandas, Scikit-learn, Seaborn.
+
+5)  Mall customers using k-Means clustering and hierarchial clustering
+
+Data Preprocessing: Cleaned and normalized features such as income, spending score, and age for clustering.
+
+EDA and Visualization: Analyzed customer distributions and visualized clusters using scatter plots and elbow method.
+
+Clustering: Applied K-Means algorithm to group customers into optimal clusters, determined by the silhouette score and elbow method.
+
+Insights Delivered: Identified high-value customer groups and proposed marketing strategies tailored to each segment.
 
 Tools & Libraries: Python, Pandas, Scikit-learn, Seaborn.
 
-5) using k-nearest neighbors
+Machine Learning Applications
+1) IPL Score prediction
+
+Model Development: Trained a linear regression model to predict final scores based on real-time match inputs.
+
+Evaluation: Evaluated the model using R-squared and mean absolute error (MAE) for accuracy and reliability.
+
+Insights Delivered:
+Provided real-time score predictions to assist in strategic decision-making during matches.
+Highlighted critical overs and player performance impacting match outcomes.
+
+Tools & Libraries: Python, Pandas, Scikit-learn, Seaborn.
+
+
 
 
 
