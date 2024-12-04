@@ -31,5 +31,23 @@ Recommended preventative measures based on the analysis of high-risk groups.
 
 Technologies Used:Tools & Libraries: Python, Pandas, Scikit-learn,Seaborn
 
+Diabetes data using decision tree and logistic regression
+
+Data Preprocessing: Cleaned data by handling missing values, scaling numerical features, and encoding categorical variables.
+
+Exploratory Analysis: Analyzed relationships between features like age, BMI, glucose levels, and insulin resistance with diabetes risk.
+
+Model Development:
+Decision Tree: Built a decision tree model for clear, interpretable classification based on risk factors.
+Logistic Regression: Applied logistic regression for binary classification to estimate diabetes probabilities.
+Evaluation: Compared both models' performance using accuracy, precision, recall, and ROC-AUC metrics.
+
+Insights Delivered:
+Identified critical factors influencing diabetes risk.
+Provided actionable insights for early diagnosis and preventative healthcare strategies.
+
+Technologies Used:Tools & Libraries: Python, Pandas, Scikit-learn,Seaborn
+
+
 
 
