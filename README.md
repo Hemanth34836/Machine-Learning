@@ -2,7 +2,7 @@ This repository features a diverse collection of machine learning projects that 
 
 Project Highlights
 
-Time on social media by using linear regression
+1) Time on social media by using linear regression
 
 Data Preprocessing: Cleaned and transformed raw survey data for consistency and usability.
 
@@ -15,7 +15,7 @@ Provided actionable recommendations for platform optimization and targeted marke
 
 Technologies Used:Tools & Libraries: Python, Pandas, Scikit-learn,Seaborn
 
-stroke data by using logistic regression
+2) stroke data by using logistic regression
 
 Data Preprocessing: Cleaned and handled missing values in health metrics like age, BMI, and glucose levels.
 
@@ -31,7 +31,7 @@ Recommended preventative measures based on the analysis of high-risk groups.
 
 Technologies Used:Tools & Libraries: Python, Pandas, Scikit-learn,Seaborn
 
-Diabetes data using decision tree and logistic regression
+3) Diabetes data using decision tree and logistic regression
 
 Data Preprocessing: Cleaned data by handling missing values, scaling numerical features, and encoding categorical variables.
 
@@ -47,6 +47,26 @@ Identified critical factors influencing diabetes risk.
 Provided actionable insights for early diagnosis and preventative healthcare strategies.
 
 Technologies Used:Tools & Libraries: Python, Pandas, Scikit-learn,Seaborn
+
+4) Voice data using support vector machine
+
+Data Preprocessing: Standardized voice dataset by handling missing values and scaling features like pitch, frequency, and amplitude.
+
+Feature Analysis: Explored and visualized key acoustic properties that distinguish voice characteristics.
+
+Model Development: Trained a support vector machine with a radial basis function (RBF) kernel for robust classification.
+
+Evaluation: Achieved high accuracy and precision by optimizing hyperparameters using grid search.
+
+Insights Delivered:
+Identified significant acoustic features that influence gender classification.
+Demonstrated the effectiveness of SVM in handling complex, high-dimensional data.
+Technologies Used:
+
+Tools & Libraries: Python, Pandas, Scikit-learn, Seaborn.
+
+5) using k-nearest neighbors
+
 
 
 
